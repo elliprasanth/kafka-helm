@@ -1,0 +1,9 @@
+dependencies:
+- name: zookeeper
+  repository: file://../zookeeper
+  version: 10.2.3
+- name: common
+  repository: file://../common
+  version: 2.0.3
+digest: sha256:2df575ff4753ef090a7db9d180e90604f24434fe4487be3bb65da11b194a87d0
+generated: "2022-11-20T15:42:24.173180208Z"
